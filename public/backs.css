@@ -1,0 +1,17 @@
+.addback{
+background:url(images/back5.jpg);
+background-size: cover;
+}
+.addback2{
+background:url(images/back6.jpg);
+background-size: cover;
+}
+.addback03{
+background:url(images/back7.jpg);
+background-size: cover;
+}
+body{
+	background:url(images/back4.jpg);
+	background-size:auto;
+	background-repeat: no-repeat;
+}
